@@ -1,4 +1,4 @@
-Codeigniter ratelimiter helper
+Codeigniter rate limiter helper
 ===============
 
 Small helper for allow only a certain number of requests per a certain amount of minutes.
